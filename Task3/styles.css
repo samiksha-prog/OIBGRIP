@@ -1,0 +1,41 @@
+body{
+    background-color: #1c274a;
+    font-family:'Times New Roman', Times, serif ;
+    font-size:x-large;
+}
+.section{
+    background-color: #92a7d1;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.form1{
+    align-items: center;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+}
+.input1{
+    text-decoration: none;
+    width: 150px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+    height: 25px;
+}
+#temp_diff{
+    height: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.btn{
+    text-decoration: none;
+    background-color: #404258;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+    padding:10px;
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif ;
+}
